@@ -67,4 +67,4 @@ img_settings = {
 
 img_process = CrawlerProcess(settings=img_settings)
 img_process.crawl(ImgSpider)
-img_process.start(stop_after_crawl=False)
+img_process.start()
