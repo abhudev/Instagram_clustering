@@ -1,1 +1,1 @@
-# Instagram_clustering
+# User behavior analysis using Instagram posts
